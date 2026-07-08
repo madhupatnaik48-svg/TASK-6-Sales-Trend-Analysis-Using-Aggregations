@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,UnitPrice
+1,Coca Cola 1L,Beverages,2.50
+2,Whole Wheat Bread 400g,Bakery,3.25
+3,Cheddar Cheese 200g,Dairy,4.75
+4,Organic Apples 1kg,Produce,5.99
+5,Chicken Breast 500g,Meat & Seafood,7.89
+6,Frozen Pizza Margherita 400g,Frozen,6.49
+7,Olive Oil 500ml,Pantry,8.99
+8,Lavender Body Wash 250ml,Personal Care,4.29
+9,Diapers Size 4 30ct,Baby Care,12.99
+10,Dry Dog Food 2kg,Pet Care,15.49
+11,Pepsi 1.5L,Beverages,2.75
+12,Chocolate Chip Cookies 200g,Snacks,3.15
+13,Whole Milk 1L,Dairy,2.89
+14,Sourdough Loaf 500g,Bakery,4.50
+15,Bananas 1kg,Produce,1.99
+16,Salmon Fillet 200g,Meat & Seafood,9.25
+17,Frozen Mixed Berries 300g,Frozen,5.49
+18,Basmati Rice 1kg,Pantry,3.99
+19,Shampoo Anti-Dandruff 400ml,Personal Care,5.75
+20,Baby Wipes 80ct,Baby Care,3.29
+21,Cat Litter 5kg,Pet Care,7.99
+22,Orange Juice 1L,Beverages,3.50
+23,Potato Chips 150g,Snacks,2.25
+24,Greek Yogurt 500g,Dairy,4.19
+25,Croissants 4pk,Bakery,3.99
+26,Carrots 1kg,Produce,1.79
+27,Beef Mince 500g,Meat & Seafood,6.75
+28,Frozen Chicken Nuggets 400g,Frozen,5.99
+29,Pasta Spaghetti 500g,Pantry,1.89
+30,Toothpaste Whitening 100ml,Personal Care,2.99
+31,Baby Formula 800g,Baby Care,19.99
+32,Dog Treats 200g,Pet Care,4.49
+33,Green Tea 20ct,Beverages,3.25
+34,Peanut Butter 340g,Pantry,4.75
+35,Mozzarella Cheese 200g,Dairy,4.29
+36,Rye Bread 500g,Bakery,3.75
+37,Avocados 4pk,Produce,5.49
+38,Pork Chops 500g,Meat & Seafood,8.25
+39,Frozen Peas 500g,Frozen,2.99
+40,Canned Tomatoes 400g,Pantry,1.49
+41,Face Moisturizer 50ml,Personal Care,9.99
+42,Baby Shampoo 200ml,Baby Care,3.49
+43,Cat Food Wet 400g,Pet Care,2.89
+44,Sparkling Water 1L,Beverages,1.99
+45,Trail Mix 200g,Snacks,4.99
+46,Butter Unsalted 250g,Dairy,3.99
+47,Baguette 300g,Bakery,2.50
+48,Spinach 200g,Produce,2.25
+49,Tuna Steak 200g,Meat & Seafood,10.49
+50,Frozen Waffles 8pk,Frozen,4.29
+51,Quinoa 500g,Pantry,5.75
+52,Deodorant Roll-On 50ml,Personal Care,3.19
+53,Baby Lotion 200ml,Baby Care,4.49
+54,Dog Leash Nylon,Pet Care,12.99
+55,Iced Coffee 500ml,Beverages,3.75
+56,Granola Bars 6pk,Snacks,3.89
+57,Parmesan Cheese 150g,Dairy,5.25
+58,Muffin Mix 400g,Bakery,2.99
+59,Strawberries 250g,Produce,4.49
+60,Shrimp 300g,Meat & Seafood,11.99
+61,Frozen Broccoli 500g,Frozen,3.25
+62,Maple Syrup 250ml,Pantry,7.49
+63,Hand Soap 300ml,Personal Care,2.75
+64,Baby Bibs 3pk,Baby Care,6.99
+65,Cat Toy Mouse,Pet Care,3.99
+66,Lemonade 1L,Beverages,2.49
+67,Pretzels 200g,Snacks,2.79
+68,Cream Cheese 200g,Dairy,3.49
+69,Donuts 6pk,Bakery,4.99
+70,Potatoes 2kg,Produce,3.29
+71,Lamb Chops 400g,Meat & Seafood,12.49
+72,Frozen French Fries 1kg,Frozen,3.99
+73,Almond Milk 1L,Pantry,3.75
+74,Sunscreen SPF 50 200ml,Personal Care,8.99
+75,Baby Pacifier 2pk,Baby Care,4.99
+76,Dog Shampoo 250ml,Pet Care,5.49
+77,Apple Juice 1L,Beverages,3.29
+78,Corn Chips 150g,Snacks,2.49
+79,Feta Cheese 200g,Dairy,4.99
+80,White Bread 600g,Bakery,2.75
+81,Tomatoes 1kg,Produce,3.49
+82,Chicken Wings 500g,Meat & Seafood,6.99
+83,Frozen Mango Chunks 300g,Frozen,4.75
+84,Oatmeal 500g,Pantry,2.99
+85,Conditioner 400ml,Personal Care,5.49
+86,Baby Bottle 250ml,Baby Care,7.99
+87,Cat Scratching Post,Pet Care,19.99
+88,Cola Zero 1L,Beverages,2.29
+89,Popcorn Kernels 500g,Snacks,2.99
+90,Skim Milk 1L,Dairy,2.79
+91,Cinnamon Rolls 4pk,Bakery,4.49
+92,Cucumbers 500g,Produce,1.89
+93,Cod Fillet 200g,Meat & Seafood,8.99
+94,Frozen Spinach 500g,Frozen,3.49
+95,Chickpeas 400g,Pantry,1.79
+96,Body Lotion 200ml,Personal Care,4.99
+97,Baby Socks 5pk,Baby Care,5.99
+98,Dog Bed Small,Pet Care,24.99
+99,Ginger Ale 1L,Beverages,2.69
+100,Crackers 200g,Snacks,3.19
