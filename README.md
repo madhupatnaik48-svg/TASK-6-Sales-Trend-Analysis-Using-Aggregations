@@ -1,5 +1,5 @@
-📊 SalesDB SQL Analysis Project
-📌 Project Overview
+**📊 SalesDB SQL Analysis Project
+📌 Project Overview**
 
 This project focuses on analyzing sales transaction data using SQL (MySQL) to generate business insights related to revenue performance, customer behavior, product performance, and sales trends.
 
@@ -17,20 +17,20 @@ The analysis is performed on a relational sales database containing customers, p
 
 🗂️ Database Schema
 
-The project uses the following tables:
+**The project uses the following tables:**
 
 Customers Table
-Column	                                         Description
-customer_id	                                     Unique customer identifier
-customer_name	                                   Customer name
-signup_date	                                     Customer registration date
+Column	        -                                   Description
+customer_id	    -                                   Unique customer identifier
+customer_name	-                                   Customer name
+signup_date	    -                                   Customer registration date
 
 Products Table
-Column	                                         Description
-product_id	                                     Unique product identifier
-product_name	                                   Product name
-product_category	                               Product category
-price	                                           Selling price
+Column	                                       Description
+product_id	                                   Unique product identifier
+product_name	                               Product name
+product_category	                           Product category
+price	                                       Selling price
 cost	                                           Product cost
 
 Orders Table
@@ -48,7 +48,7 @@ order_id	                                       Order reference
 product_id	                                     Product reference
 quantity	                                       Number of products purchased
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 Tool	                                           Purpose
 MySQL	                                           Database Management
 MySQL Workbench	                                 Query Execution
@@ -56,7 +56,7 @@ SQL	                                             Data Analysis
 GitHub	                                         Project Documentation
 
 
-🎯 Business Objectives
+**🎯 Business Objectives**
 
 The project answers key business questions:
 Which product categories generate the highest revenue?
@@ -67,7 +67,7 @@ Which products are slow-moving?
 Which categories contribute most to yearly revenue?
 Which products generate maximum profit?
 
-📈 SQL Analysis Performed
+**📈 SQL Analysis Performed**
 1. Revenue Analysis by Product Category
 Business Question:
 
@@ -257,7 +257,7 @@ Business Insight:
 
 Identifies peak sales periods.
 
-📊 Key SQL Skills Demonstrated
+**📊 Key SQL Skills Demonstrated**
 
 ✅ SELECT statements
 ✅ INNER JOIN
@@ -303,7 +303,7 @@ SalesDB-SQL-Analysis
 │
 └── output
     └── analysis_results.xlsx
-🚀 How to Run Project
+**🚀 How to Run Project**
 Step 1: Create Database
 CREATE DATABASE SalesDB;
 Step 2: Import Tables
@@ -324,7 +324,7 @@ Step 4: Execute Analysis Queries
 Run:
 
 sales_analysis_queries.sql
-📌 Business Impact
+**📌 Business Impact**
 
 This SQL analysis helps organizations:
 
@@ -334,7 +334,7 @@ Understand customer purchasing behavior
 Optimize inventory
 Monitor revenue growth
 Support data-driven decisions
-👩‍💻 Author
+**👩‍💻 Author**
 
 Madhulata Mukkamala
 
